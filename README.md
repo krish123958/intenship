@@ -1,6 +1,7 @@
 # intenship
-* check if you have an pyjwt *
-*if not install my using small command*
+* check if you have an pyjwt 
+
+*if not install my using small command
 
 pip install pyjwt
 
