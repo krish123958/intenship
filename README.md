@@ -1,21 +1,21 @@
 # intenship
 * check if you have an pyjwt 
 
-*if not install my using small command
+#if not install my using small command
 
 pip install pyjwt
 
-*check if you have an django_heroku*
+#check if you have an django_heroku
 
-*if not install using command*
+#if not install using command
 
-*first install psycopg2*
+#first install psycopg2
 
 pip install psycopg2
 
 pip install django-heroku
 
-* now migrate*
+#now migrate
 
 py manage.py migrate
 
