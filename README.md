@@ -14,7 +14,7 @@ pip install psycopg2
 
 pip install django-heroku
 
-* now migreate*
+* now migrate*
 
 py manage.py migrate
 
